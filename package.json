@@ -1,0 +1,13 @@
+{
+  "name": "shahzaibaslam-calculator",
+  "version": "1.0.1",
+  "description": "Simple Calculator with Typescript,Node.Js and Inquirer.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
